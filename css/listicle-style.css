@@ -1,0 +1,118 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+
+	background:url(../images/header.jpg);
+	background-size: cover;
+	height: 500px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.titulo1
+{	
+	color: white;
+	font-weight: normal;		
+	font-family: "Roboto Slab",serif;
+	font-size: 36px;
+	max-width: 780px;
+	text-align: center;
+}
+	
+
+
+.ivk{	
+	display: block;
+    margin: auto;    
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	border: 3px solid white;
+	position: relative;
+	top: -50px;	
+}
+.imagenes{
+	display: block;
+	margin: auto;
+    
+    width: 66.67%;
+    height: 100%;	
+    border-radius: 0%;
+
+}
+.victoria
+{
+	font-size: 18px;
+	font-family: "Source Sans Pro",serif;
+	font-weight:bold;
+	text-align: center;
+	position: relative;
+	top: -50px;	
+}
+.update
+{
+	font-size: 18px;	
+	color: rgb(51,51,51);
+	line-height: 24px;
+	text-align: center;
+	position: relative;
+	top: -50px;	
+	text-decoration: underline #e6e6e6;
+
+
+
+
+}
+.numero
+{   font-family: Roboto Slab,serif;
+	margin: auto;;
+	width: 66.67%;
+	font-size: 36px;
+	color: rgba(0,0,0,0.25);
+	position: relative;
+	left: -50px;
+}
+.bebida{
+	
+	margin:auto;
+	width: 66.67%;
+	font-size: 36px;
+	font-family: "Roboto Slab",serif;
+	font-weight: bold;
+	position: relative;
+	height: 60px;
+	top:-48px;
+	}
+.direccion{
+	font-weight: bolder;
+	color: #42b4d6;	
+	font-size:20px;	
+	font-family: "Source Sans Pro",sans-serif;
+	text-decoration-line: none;
+	position: relative;
+	top: -21px;
+	
+
+}
+.texto{
+	font-family: "Source Sans Pro",serif;
+
+    max-width: 66.67%;
+	width: 66.67%;
+	margin: auto;
+	font-weight: normal;
+	line-height: 32px;
+	font-size: 18px;
+	color: rgb(51,51,51);
+	position: relative;		
+	top:-26px;	
+	}
+.espacio120{
+	line-height: 120px;
+}
+.espacio20{
+	line-height: 20px;
+}
